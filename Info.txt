@@ -1,0 +1,17 @@
+WYahhtt advice
+In main method, call another object 
+	poop poo = new poop()
+	
+poop class
+	constructor no params, code starts here
+	make jframe(will make new threads, program will not close till all threadsd done)
+		make an obj for your class that extends jpanesl
+class to extend jpanel
+	(put drawing code)
+http://zetcode.com/tutorials/javaswingtutorial/
+Sound stuff
+http://www.jsresources.org/examples/audio_playing_recording.html
+Change Jframe icon:
+http://stackoverflow.com/questions/12438849/swing-change-the-icon-of-jframe
+
+http://www.wikihow.com/Create-a-Swing-GUI-in-Java
